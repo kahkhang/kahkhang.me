@@ -3,24 +3,6 @@ layout: default
 title: Projects
 ---
 
-# Demos
-
-<div class="thumbnails">
-    <!-- Thumbnail row -->
-    <div class="thumbnail">
-        <a href="http://hyde-kahkhang.rhcloud.com/" target="_blank">
-            <div class="label"><p>Hyde</p></div>
-            <div class="image"><img src="/images/projects/hyde.jpg" /></div>
-        </a>
-    </div>
-    <div class="thumbnail">
-        <a href="http://kahkhang.github.io/coupon-generator/" target="_blank">
-            <div class="label"><p>Coupon<br/>Generator</p></div>
-            <div class="image"><img src="/images/projects/coupon-generator.jpg" /></div>
-        </a>
-    </div>
-</div>
-
 # Personal Projects
 
 <div class="thumbnails">

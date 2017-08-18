@@ -11,7 +11,7 @@ I like creating software to solve challenging problems, and I believe in Compute
 
 I’ve interned as a software engineer at [Ninja Van](https://www.ninjavan.co/en-sg), where I built a [social commerce app](https://easy.ninjavan.co/) featuring on-demand pickup and delivery. I've also worked at [AKELES Consulting](https://www.akeles.com/), where I built a number of popular [JIRA plugins](https://marketplace.atlassian.com/vendors/105/akeles-consulting).
 
-You can find out more about me [here](http://kahkhang.github.io/cv/AndrewLow.pdf), view my past [projects](http://kahkhang.github.io/projects/), or just say [hi](mailto:kahkhang@gmail.com).
+You can find out more about me [here](cv/AndrewLow.pdf), view my past [projects](projects/), or just say [hi](mailto:kahkhang@gmail.com).
 
 This site is hosted using Kubernetes on Linode (see [Kube-Linode](https://github.com/kahkhang/kube-linode)).
 
